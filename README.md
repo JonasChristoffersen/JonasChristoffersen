@@ -1,2 +1,4 @@
 # 💫 About Me:
-Dansk:<br>Jeg læser til datamatiker, på Erhvervsakademiet København (EK)<br>Under min uddanelse, vil jeg lære følgende sprog:<br>- Java<br>- TypeScript<br>- JavaScript<br>- HTML<br>- React<br>- og flere endnu<br><br>English:<br>Im a computer Science student, at Erhvervsakademiet København (EK)<br>During my time as a student, i will be learning the following languages:<br>- Java<br>- TypeScript<br>- JavaScript<br>- HTML<br>- React<br>- and more<br>
+My name is Jonas Christoffersen
+<br>Located in Denmark
+<br>Im a computer Science student, at Erhvervsakademiet København (EK)
